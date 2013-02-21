@@ -1,0 +1,7 @@
+<? // if (!defined('__CONTROL__')) die ("You Cannot Access This Script Directly"); ?>
+<div style="width:100%; padding-top:50px;" align="center">
+	<img src="images/logo_small.jpg" />
+    <div style="width:100%; height:10px;"><!-- SPACER --></div>
+    <img src="images/ico_warning.png" align="texttop" /> 
+    <span style="color: #555555; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;">You don't have permission to access this link/file on this server.</span>
+</div>
